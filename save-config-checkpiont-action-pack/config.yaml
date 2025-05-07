@@ -1,0 +1,4 @@
+type: PACKAGE
+version: 1.0.1
+name: save-config-checkpoint Action package
+description: Action package containing scripts that save a config checkpoint
